@@ -23,7 +23,7 @@ Import and Configure
 First, import the necessary functions from CheatModes4:
 
 ```ts
-import { CombineProviders, CreateFastContext } from 'cheatmodes4';
+import { CombineProviders, CreateFastContext } from 'CheatModes4';
 ```
 
 ### Define the Initial State
