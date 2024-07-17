@@ -14,16 +14,16 @@ That is the starting point, which I have been extending its functionality to tak
 To install the library, use the following command:
 
 ```ts
-npm i CheatModes4
+npm i cheatmodes4
 ```
 
 ### Use
 
 Import and Configure
-First, import the necessary functions from CheatModes4:
+First, import the necessary functions from cheatmodes4:
 
 ```ts
-import { CombineProviders, CreateFastContext } from 'CheatModes4';
+import { CombineProviders, CreateFastContext } from 'cheatmodes4';
 ```
 
 ### Define the Initial State
