@@ -7,8 +7,8 @@ This library is based on a hook that Jack Herrington has published on his YouTub
 
 That is the starting point, which I have been extending its functionality to take advantage of all the power of React, the idea is to **simplify the code to eliminate the Drilling prop and the complexity and code base of some libraries to handle global states, it also solves React Context and useState Hell.**
 
-![Context Hell](./src/assets/contexthell.jpg)
-![useState Hell](./src/assets/useStatehell.png)
+![Context Hell](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/contexthell.jpg)
+![useState Hell](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/useStatehell.png)
 
 # To install it
 To install the library, use the following command:
@@ -126,12 +126,12 @@ export function Counter () {
 ```
 
 > Has all the power of typescript to detect properties and infer types
-![typescript inference](./src/assets/inference.png)
-![types](./src/assets/autocomplete.png)
-![types](./src/assets/auto.png)
+![typescript inference](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/inference.png)
+![autocomplete](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/autocomplete.png)
+![auto](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/auto.png)
 
 > Also the useState callback to update the state according to its previous properties
-![types](./src/assets/cb.png)
+![types](https://github.com/MrShortcut/CheatModes4GlobalContextStateManager/raw/main/src/assets/cb.png)
 
 #### Now you're ready to make beautiful React code free of common bad practices.
 If this project has served you and liked it, and if you want to support financially to continue developing it, contact me
