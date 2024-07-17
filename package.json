@@ -1,6 +1,6 @@
 {
   "name": "cheatmodes4",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Global Context State Manager extended of CreateFastContext of Jack Herrington",
   "main": "./src/index.tsx",
   "files": [
